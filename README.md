@@ -10,5 +10,5 @@ git commit -m
 git log  
 git remote add origin
 git remote -v
-git push origin master 2x
+git push origin master 
 git pull  
